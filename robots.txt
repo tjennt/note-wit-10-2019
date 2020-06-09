@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /home/note
+Disallow: /home/note-bin
+Disallow: /home/game/doanso/history
+Disallow: /.env
+Disallow: /.htaccess
+Disallow: /robots.txt
+Disallow: /assets
+Disallow: /config
+Disallow: /storage
+Disallow: /tests
+Disallow: /tmp
+Disallow: /vendor
+Disallow: /admin
+Disallow: /admin/give-cash
